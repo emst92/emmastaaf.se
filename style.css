@@ -1,0 +1,50 @@
+html, body {
+  background: linear-gradient(45deg, red, white);
+  height: 100%;
+  
+}
+
+.hidden{
+  display: none;
+}
+.container{  
+  position: relative;
+}
+
+.section{  
+  position: absolute;
+  margin: auto;  
+  color: white;
+  padding-top: 10.5rem;
+}
+
+.font-section{
+  width: 70%;
+}
+
+h1{
+  font-size: 50px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h3{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.icon-section {
+  margin-top: 20px;
+}
+
+.icons {
+ color: white;
+ margin-right: 10px;
+ font-size: 20px;
+}
+
+.icons:hover {
+  color: white;
+  opacity: 0.5;
+  text-decoration: none;
+ }
+
